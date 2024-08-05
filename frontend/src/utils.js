@@ -1,0 +1,1 @@
+export const API_URL ="https://b4o37jengwxvbpaobds5ny3faa0hycbg.lambda-url.us-east-1.on.aws/notes";
